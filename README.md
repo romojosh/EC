@@ -1,5 +1,6 @@
 # EC
 Extra Credit towards Exam 1
+
 Hi, I'm Josh, I've taken this career path 
 because I find it interesting to me the concept
 of coding and making things.
